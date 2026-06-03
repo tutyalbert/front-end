@@ -55,3 +55,7 @@ Preview:
 14.Image slider https://tutyalbert.github.io/front-end/image%20slider.html
 Preview:
 <img width="812" height="703" alt="Screenshot 2026-06-03 133947" src="https://github.com/user-attachments/assets/115761fd-4a4e-46f6-b059-af6ae01ddf08" />
+
+15.Responsive webpage https://tutyalbert.github.io/front-end/responsive%20webpage.html
+Preview:
+<img width="1304" height="382" alt="Screenshot 2026-06-03 134448" src="https://github.com/user-attachments/assets/c25bfd09-7663-43f4-8bd0-8295c11160f5" />

@@ -21,3 +21,7 @@ preview:
 6.Navbar https://tutyalbert.github.io/front-end/navbar.html
 preview: 
 <img width="573" height="135" alt="Screenshot 2026-06-03 115159" src="https://github.com/user-attachments/assets/fd284b60-c423-4087-b6ee-fa24fb906ccb" />
+
+7.validation from https://tutyalbert.github.io/front-end/validation%20from.html
+preview:
+<img width="681" height="592" alt="Screenshot 2026-06-03 115606" src="https://github.com/user-attachments/assets/09895028-485e-4c0d-bb90-3c97ace9413c" />

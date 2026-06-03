@@ -71,3 +71,7 @@ Preview:
 18.React single page layout https://tutyalbert.github.io/front-end/react%20single%20page%20layout.html
 Preview:
 <img width="368" height="246" alt="Screenshot 2026-06-03 143414" src="https://github.com/user-attachments/assets/28730789-c17d-4152-a59c-e0b17616ad67" />
+
+19.React State Management (Counter) https://tutyalbert.github.io/front-end/react%20state%20management%20(counter).html
+Preview:
+<img width="416" height="213" alt="Screenshot 2026-06-03 144200" src="https://github.com/user-attachments/assets/c2cbcb54-3a37-41f5-b8f1-f4401a92f690" />

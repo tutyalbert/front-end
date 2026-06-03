@@ -59,3 +59,7 @@ Preview:
 15.Responsive webpage https://tutyalbert.github.io/front-end/responsive%20webpage.html
 Preview:
 <img width="1304" height="382" alt="Screenshot 2026-06-03 134448" src="https://github.com/user-attachments/assets/c25bfd09-7663-43f4-8bd0-8295c11160f5" />
+
+16.Bootstrap components https://tutyalbert.github.io/front-end/bootstrap%20components.html
+preview:
+<img width="1068" height="373" alt="Screenshot 2026-06-03 134840" src="https://github.com/user-attachments/assets/bc8cba72-ff3e-4198-b117-fd6de9339d1c" />

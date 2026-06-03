@@ -17,3 +17,7 @@ preview:
 5. login page https://tutyalbert.github.io/front-end/login%20page.html
  preview:
 <img width="619" height="587" alt="Screenshot 2026-06-03 114615" src="https://github.com/user-attachments/assets/5c97f455-5679-4827-8b60-968c713627b3" />
+
+6.Navbar https://tutyalbert.github.io/front-end/navbar.html
+preview: 
+<img width="573" height="135" alt="Screenshot 2026-06-03 115159" src="https://github.com/user-attachments/assets/fd284b60-c423-4087-b6ee-fa24fb906ccb" />

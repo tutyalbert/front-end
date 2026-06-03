@@ -51,3 +51,7 @@ preview:
 13.Event handling https://tutyalbert.github.io/front-end/event%20handling.html
 Preview:
 <img width="461" height="175" alt="Screenshot 2026-06-03 133252" src="https://github.com/user-attachments/assets/4241a2d6-4f6f-4582-afd4-a9c6ca8961f9" />
+
+14.Image slider https://tutyalbert.github.io/front-end/image%20slider.html
+Preview:
+<img width="812" height="703" alt="Screenshot 2026-06-03 133947" src="https://github.com/user-attachments/assets/115761fd-4a4e-46f6-b059-af6ae01ddf08" />

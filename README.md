@@ -10,3 +10,6 @@ preview:
 preview:
 <img width="1285" height="493" alt="Screenshot 2026-06-03 104956" src="https://github.com/user-attachments/assets/7f94529c-8054-4d28-a74d-b3059de7020f" />
 
+4.flex box https://tutyalbert.github.io/front-end/flex%20box.html
+preview:
+<img width="1296" height="731" alt="Screenshot 2026-06-03 105603" src="https://github.com/user-attachments/assets/5e245c29-3ad1-42b4-9ca6-dde6e202a845" />

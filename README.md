@@ -1,20 +1,20 @@
-1.profile page demo https://tutyalbert.github.io/front-end/profile.html
+1.Profile page demo https://tutyalbert.github.io/front-end/profile.html
 preview:
 <img width="1917" height="746" alt="Screenshot 2026-06-03 103132" src="https://github.com/user-attachments/assets/2caceafb-9ce5-4d36-9e4e-4fa90f4ffd6b" />
 
-2.registration form https://tutyalbert.github.io/front-end/registration%20from.html
+2.Registration form https://tutyalbert.github.io/front-end/registration%20from.html
 preview:
 <img width="729" height="879" alt="Screenshot 2026-06-03 103654" src="https://github.com/user-attachments/assets/41b5f08c-9545-401a-995c-c40c480c843e" />
 
-3.photo gallery https://tutyalbert.github.io/front-end/photo%20gallery.html
+3.Photo gallery https://tutyalbert.github.io/front-end/photo%20gallery.html
 preview:
 <img width="1285" height="493" alt="Screenshot 2026-06-03 104956" src="https://github.com/user-attachments/assets/7f94529c-8054-4d28-a74d-b3059de7020f" />
 
-4.flex box https://tutyalbert.github.io/front-end/flex%20box.html
+4.Flex box https://tutyalbert.github.io/front-end/flex%20box.html
 preview:
 <img width="1296" height="731" alt="Screenshot 2026-06-03 105603" src="https://github.com/user-attachments/assets/5e245c29-3ad1-42b4-9ca6-dde6e202a845" />
 
-5. login page https://tutyalbert.github.io/front-end/login%20page.html
+5. Login page https://tutyalbert.github.io/front-end/login%20page.html
  preview:
 <img width="619" height="587" alt="Screenshot 2026-06-03 114615" src="https://github.com/user-attachments/assets/5c97f455-5679-4827-8b60-968c713627b3" />
 
@@ -22,6 +22,10 @@ preview:
 preview: 
 <img width="573" height="135" alt="Screenshot 2026-06-03 115159" src="https://github.com/user-attachments/assets/fd284b60-c423-4087-b6ee-fa24fb906ccb" />
 
-7.validation from https://tutyalbert.github.io/front-end/validation%20from.html
+7.Validation from https://tutyalbert.github.io/front-end/validation%20from.html
 preview:
 <img width="681" height="592" alt="Screenshot 2026-06-03 115606" src="https://github.com/user-attachments/assets/09895028-485e-4c0d-bb90-3c97ace9413c" />
+
+8.Hover effect https://tutyalbert.github.io/front-end/hover%20effect.html
+preview:
+<img width="537" height="400" alt="Screenshot 2026-06-03 120518" src="https://github.com/user-attachments/assets/01c8e781-ce01-449f-85f3-df4039fb24b4" />

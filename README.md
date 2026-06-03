@@ -29,3 +29,7 @@ preview:
 8.Hover effect https://tutyalbert.github.io/front-end/hover%20effect.html
 preview:
 <img width="537" height="400" alt="Screenshot 2026-06-03 120518" src="https://github.com/user-attachments/assets/01c8e781-ce01-449f-85f3-df4039fb24b4" />
+
+9.Calculator https://tutyalbert.github.io/front-end/calculator.html
+preview:
+<img width="438" height="579" alt="Screenshot 2026-06-03 121002" src="https://github.com/user-attachments/assets/1ebd0981-776d-4da5-a560-4775038e0d77" />

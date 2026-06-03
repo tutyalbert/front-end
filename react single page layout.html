@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+function Header() { return <header><h1>My React Website</h1></header>; }
+function About() { return <section><h2>About</h2><p>React.js components.</p></section>; }
+function Footer() { return <footer><p>© 2026 React App</p></footer>; }
+function App() {
+return ( <div> <Header/> <About/> <Footer/> </div> );
+}
+ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
+</script>
+</body>
+</html>

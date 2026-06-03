@@ -63,3 +63,7 @@ Preview:
 16.Bootstrap components https://tutyalbert.github.io/front-end/bootstrap%20components.html
 preview:
 <img width="1068" height="373" alt="Screenshot 2026-06-03 134840" src="https://github.com/user-attachments/assets/bc8cba72-ff3e-4198-b117-fd6de9339d1c" />
+
+17.Font Awesome Icons https://tutyalbert.github.io/front-end/font%20awesome%20icons.html
+Preview:
+<img width="799" height="228" alt="Screenshot 2026-06-03 135430" src="https://github.com/user-attachments/assets/c1122541-e820-4b2e-9890-eaf7aeb7c7b0" />

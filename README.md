@@ -47,3 +47,7 @@ preview:
 12.Website creation https://tutyalbert.github.io/front-end/website%20creation.html
 preview:
 <img width="570" height="485" alt="Screenshot 2026-06-03 132845" src="https://github.com/user-attachments/assets/e82a0370-611d-4bcc-803e-e4802fdef213" />
+
+13.Event handling https://tutyalbert.github.io/front-end/event%20handling.html
+Preview:
+<img width="461" height="175" alt="Screenshot 2026-06-03 133252" src="https://github.com/user-attachments/assets/4241a2d6-4f6f-4582-afd4-a9c6ca8961f9" />

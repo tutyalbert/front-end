@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive Web Page</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+}
+
+header{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background:#555;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+}
+
+.container{
+    display:flex;
+    gap:20px;
+    padding:20px;
+}
+
+.content{
+    flex:3;
+    background:#f4f4f4;
+    padding:20px;
+}
+
+.sidebar{
+    flex:1;
+    background:#ddd;
+    padding:20px;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+
+/* Responsive Design */
+@media (max-width:768px){
+    .container{
+        flex-direction:column;
+    }
+
+    nav a{
+        display:block;
+        margin:10px 0;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>My Responsive Website</h1>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+<div class="container">
+    <div class="content">
+        <h2>Welcome</h2>
+        <p>
+            This is a responsive webpage. Resize the browser window
+            to see the layout adapt to different screen sizes.
+        </p>
+    </div>
+
+    <div class="sidebar">
+        <h3>Sidebar</h3>
+        <p>Additional information goes here.</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2026 My Website</p>
+</footer>
+
+</body>
+</html>

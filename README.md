@@ -6,4 +6,7 @@ preview:
 preview:
 <img width="729" height="879" alt="Screenshot 2026-06-03 103654" src="https://github.com/user-attachments/assets/41b5f08c-9545-401a-995c-c40c480c843e" />
 
-3.photo gallery 
+3.photo gallery https://tutyalbert.github.io/front-end/photo%20gallery.html
+preview:
+<img width="1285" height="493" alt="Screenshot 2026-06-03 104956" src="https://github.com/user-attachments/assets/7f94529c-8054-4d28-a74d-b3059de7020f" />
+

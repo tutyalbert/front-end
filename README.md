@@ -67,3 +67,7 @@ preview:
 17.Font Awesome Icons https://tutyalbert.github.io/front-end/font%20awesome%20icons.html
 Preview:
 <img width="799" height="228" alt="Screenshot 2026-06-03 135430" src="https://github.com/user-attachments/assets/c1122541-e820-4b2e-9890-eaf7aeb7c7b0" />
+
+18.React single page layout https://tutyalbert.github.io/front-end/react%20single%20page%20layout.html
+Preview:
+<img width="368" height="246" alt="Screenshot 2026-06-03 143414" src="https://github.com/user-attachments/assets/28730789-c17d-4152-a59c-e0b17616ad67" />

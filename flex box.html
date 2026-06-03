@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flexbox Layout</title>
+<style>
+body { font-family: Arial; margin: 0; background-color: #f4f4f4; }
+header, footer { background-color: #2c3e50; color: white; text-align: center; padding: 15px; }
+.container { display: flex; flex-wrap: wrap; justify-content: space-around; padding: 20px; }
+.column { background-color: white; width: 30%; margin: 10px; padding: 20px; border-radius: 8px;
+box-shadow: 0px 0px 8px gray; }
+@media (max-width: 768px) { .column { width: 100%; } }
+</style>
+</head>
+<body>
+<header><h1>Flexbox Multi-Column Layout</h1></header>
+<div class="container">
+<div class="column"><h2>HTML</h2><p>Structure web pages.</p></div>
+<div class="column"><h2>CSS</h2><p>Style web pages.</p></div>
+<div class="column"><h2>JavaScript</h2><p>Add interactivity.</p></div>
+</div>
+<footer><p>© 2026 Flexbox Example</p></footer>
+</body>
+</html>
